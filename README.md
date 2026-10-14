@@ -1,5 +1,7 @@
 # NopCommercePractice
 
+> **Note:** this project was originally developed under my earlier GitHub account, [sajid43677/NopCommercePractice](https://github.com/sajid43677/NopCommercePractice), and was moved to this account in October 2026.
+
 A practice workspace built on [nopCommerce](https://www.nopcommerce.com/) **4.70.3**, used for learning and experimenting with nopCommerce plugin development, payments and real-time features.
 
 ## What's in this repo
